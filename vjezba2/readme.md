@@ -1,6 +1,6 @@
 # STRUČNI STUDIJ INFORMACIJSKE TEHNOLOGIJE BAZE PODATAKA 2
 
-## VJEŽBA 3 – OSNOVE SQL-A
+## VJEŽBA 2 – OSNOVE SQL-A
 ### ZADACI
 Dodajte na instance SQL Server Express 2008 novu bazu podataka Northwind_BP2 korištenjem priloženih skripti.
 Kreirajte sljedeće upite nad tako kreiranom bazom podataka:
