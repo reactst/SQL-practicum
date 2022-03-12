@@ -18,8 +18,6 @@ Kreirajte sljedeće upite nad tako kreiranom bazom podataka:
     11. Upit koji prikazuje ime i prezime svih zaposlenika koji ne podnose izvještaj nikome (Employees.ReportTo).
     12. Upit koji prikazuje ime, prezime i datum rođenja svih zaposlenika rođenih u 1950-im godinama.
     13. Upit koji prikazuje naziv artikla i ID dobavljača (SupplierId) za sve produkte kojima je dobavljač: „Exotic Liquids“, „Grandma Kelly's Homestead“, ili „Tokyo Traders“. ID dobavljača prethodno je potrebno dohvatiti odvojenim upitom i koristiti tako dobivene ID.
-    14. Upit koji prikazuje poštanski broj za dostavu (ShipPostalCode), ID narudžbe (OrderId), i datum
-    narudžbe (Orderdate) za sve narudžbe (Orders) sa poštanskim brojem za dostavu koji
-    počinje s "02389".
+    14. Upit koji prikazuje poštanski broj za dostavu (ShipPostalCode), ID narudžbe (OrderId), i datum narudžbe (Orderdate) za sve narudžbe (Orders) sa poštanskim brojem za dostavu koji počinje s "02389".
     15. Upit koji prikazuje ime kontakta (ContactName), titulu (ContactTitle) i naziv tvrtke (CompanyName) za sve kupce čija titula ne sadržava riječ „Sales“.
     16. Upit koji prikazuje ime i prezime te grad u kojem živi za sve zaposlenike koji ne žive u Seattlu u državi Washington.
