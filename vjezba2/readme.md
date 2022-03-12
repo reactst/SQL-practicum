@@ -1,8 +1,8 @@
-#STRUČNI STUDIJ INFORMACIJSKE TEHNOLOGIJE BAZE PODATAKA 2
+# STRUČNI STUDIJ INFORMACIJSKE TEHNOLOGIJE BAZE PODATAKA 2
 
-##VJEŽBA 3 – OSNOVE SQL-A
-###ZADACI
-//Dodajte na instance SQL Server Express 2008 novu bazu podataka Northwind_BP2 korištenjem priloženih skripti.
+## VJEŽBA 3 – OSNOVE SQL-A
+### ZADACI
+Dodajte na instance SQL Server Express 2008 novu bazu podataka Northwind_BP2 korištenjem priloženih skripti.
 Kreirajte sljedeće upite nad tako kreiranom bazom podataka:
 1. Upit koji dohvaća sadržaj tablice Employees.
 2. Upit koji dohvaća atribute ContactName, CompanyName, ContactTitle i Phone iz tablice Customers.
