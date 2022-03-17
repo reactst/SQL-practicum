@@ -1,9 +1,10 @@
-#SVEUČILIŠTE U SPLITU
-##SVEUČILIŠNI STUDIJSKI CENTAR ZA STRUČNE STUDIJE
-###STUDIJ INFORMACIJSKE TEHNOLOGIJE BAZE PODATAKA 2
+# SVEUČILIŠTE U SPLITU
+## SVEUČILIŠNI STUDIJSKI CENTAR ZA STRUČNE STUDIJE
+### STUDIJ INFORMACIJSKE TEHNOLOGIJE BAZE PODATAKA 2
 
-Vježba 1
+**Vježba 1**
 Zadatak:
+
     1. Kreirajte bazu podataka PRIMJER.
     2. Kreirajte tablice s relacijama kako su prikazane na slici.
         a. Odredite tipove atributa.
